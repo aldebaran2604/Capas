@@ -1,0 +1,10 @@
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\SwitchDataBaseWebService.exe.config
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\SwitchDataBaseWebService.exe
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\SwitchDataBaseWebService.pdb
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\EntityFramework.dll
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\EntityFramework.xml
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\obj\Debug\SwitchDataBaseWebService.csprojResolveAssemblyReference.cache
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\obj\Debug\SwitchDataBaseWebService.exe
+c:\users\lpadilla\documents\visual studio 2015\Projects\Comercio\SwitchDataBaseWebService\obj\Debug\SwitchDataBaseWebService.pdb
